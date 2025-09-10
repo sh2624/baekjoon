@@ -1,7 +1,6 @@
 // [브론즈 2] 30700 - KOREA 문자열 만들기
 
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 
 int main(void)
@@ -23,6 +22,5 @@ int main(void)
     // 결과 출력
     printf("%d", cnt);
 
-    system("pause");
     return 0;
 }
