@@ -1,4 +1,4 @@
-// [실버 5] 1181 - 스네이크버드
+// [실버 5] 1181 - 단어 정렬
 
 #include <stdio.h>
 #include <stdlib.h> 
